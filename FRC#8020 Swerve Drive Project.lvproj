@@ -100,7 +100,7 @@ AddOutputFilter chunkFilter
 		<Item Name="output" Type="Folder" URL="../PlanningUtils/FRC8020-PathWeaver/output">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="deploy" Type="Folder" URL="../deploy">
+		<Item Name="deploy" Type="Folder" URL="../PlanningUtils/FRC8020-PathPlanner/deploy">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="Support Code" Type="Folder">
