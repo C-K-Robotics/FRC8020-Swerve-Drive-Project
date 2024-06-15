@@ -762,7 +762,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{6782B190-04E1-4A41-93AB-3F357B35791E}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">1918</Property>
+				<Property Name="Bld_version.build" Type="Int">1920</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
@@ -775,7 +775,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Destination[2].path" Type="Path">/home/lvuser/natinst/bin/LabVIEW Data</Property>
 				<Property Name="Destination[2].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">3</Property>
-				<Property Name="Source[0].itemID" Type="Str">{CB4AA0AF-0A2F-442E-A906-4E55E0193211}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{E08136FF-453B-4177-B9CF-253087F352B5}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/Target/Robot Main.vi</Property>
@@ -795,7 +795,17 @@ AddOutputFilter chunkFilter
 				<Property Name="Source[3].itemID" Type="Ref">/Target/deploy/pathplanner/paths</Property>
 				<Property Name="Source[3].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[3].type" Type="Str">Container</Property>
-				<Property Name="SourceCount" Type="Int">4</Property>
+				<Property Name="Source[4].destinationIndex" Type="Int">2</Property>
+				<Property Name="Source[4].itemID" Type="Ref">/Target/output/.gitkeep</Property>
+				<Property Name="Source[4].newName" Type="Str">.gitkeep_output</Property>
+				<Property Name="Source[4].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[5].destinationIndex" Type="Int">2</Property>
+				<Property Name="Source[5].itemID" Type="Ref">/Target/deploy/pathplanner/paths/.gitkeep</Property>
+				<Property Name="Source[5].newName" Type="Str">.gitkeep_pp_paths</Property>
+				<Property Name="Source[5].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[6].itemID" Type="Ref">/Target/deploy/pathplanner/autos/.gitkeep</Property>
+				<Property Name="Source[6].newName" Type="Str">.gitkeep_pp_autos</Property>
+				<Property Name="SourceCount" Type="Int">7</Property>
 				<Property Name="TgtF_companyName" Type="Str">NI</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">FRC Robot Boot-up Deployment</Property>
 				<Property Name="TgtF_internalName" Type="Str">FRC Robot Boot-up Deployment</Property>
@@ -824,7 +834,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{7905478F-9D9C-4A9C-9A91-96DF34880085}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin/LabVIEW Data</Property>
-				<Property Name="Bld_version.build" Type="Int">102</Property>
+				<Property Name="Bld_version.build" Type="Int">103</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/LabVIEW Data</Property>
@@ -833,7 +843,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Destination[1].path" Type="Path">/home/lvuser/natinst/bin/LabVIEW Data/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{DE04E348-C3E6-4F14-AB31-1A78BF66A53E}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{E08136FF-453B-4177-B9CF-253087F352B5}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].Container.applyInclusion" Type="Bool">true</Property>
 				<Property Name="Source[1].Container.depDestIndex" Type="Int">0</Property>
@@ -841,15 +851,21 @@ AddOutputFilter chunkFilter
 				<Property Name="Source[1].itemID" Type="Ref">/Target/output</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[1].type" Type="Str">Container</Property>
+				<Property Name="Source[2].Container.applyInclusion" Type="Bool">true</Property>
+				<Property Name="Source[2].Container.depDestIndex" Type="Int">0</Property>
 				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[2].itemID" Type="Ref"></Property>
-				<Property Name="Source[3].Container.applyInclusion" Type="Bool">true</Property>
-				<Property Name="Source[3].Container.depDestIndex" Type="Int">0</Property>
-				<Property Name="Source[3].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[3].itemID" Type="Ref">/Target/deploy/pathplanner/paths</Property>
+				<Property Name="Source[2].itemID" Type="Ref">/Target/deploy/pathplanner/paths</Property>
+				<Property Name="Source[2].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[2].type" Type="Str">Container</Property>
+				<Property Name="Source[3].itemID" Type="Ref">/Target/output/.gitkeep</Property>
+				<Property Name="Source[3].newName" Type="Str">.gitkeep_output</Property>
 				<Property Name="Source[3].sourceInclusion" Type="Str">Include</Property>
-				<Property Name="Source[3].type" Type="Str">Container</Property>
-				<Property Name="SourceCount" Type="Int">4</Property>
+				<Property Name="Source[4].itemID" Type="Ref">/Target/deploy/pathplanner/paths/.gitkeep</Property>
+				<Property Name="Source[4].newName" Type="Str">.gitkeep_pp_paths</Property>
+				<Property Name="Source[4].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[5].itemID" Type="Ref">/Target/deploy/pathplanner/autos/.gitkeep</Property>
+				<Property Name="Source[5].newName" Type="Str">.gitkeep_pp_autos</Property>
+				<Property Name="SourceCount" Type="Int">6</Property>
 			</Item>
 		</Item>
 	</Item>
