@@ -1,3 +1,6 @@
 [submodule "PlanningUtils/FRC8020-PathWeaver"]
 	path = PlanningUtils/FRC8020-PathWeaver
 	url = https://github.com/C-K-Robotics/FRC8020-PathWeaver.git
+[submodule "PlanningUtils/FRC8020-PathPlanner"]
+	path = PlanningUtils/FRC8020-PathPlanner
+	url = https://github.com/C-K-Robotics/FRC8020-PathPlanner.git
