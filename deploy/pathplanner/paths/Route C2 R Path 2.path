@@ -1,0 +1,134 @@
+{
+  "version": 1.0,
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 14.34,
+        "y": 2.97
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 13.44231067799132,
+        "y": 2.0391158189213385
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 10.73,
+        "y": 1.31
+      },
+      "prevControl": {
+        "x": 11.322102337432042,
+        "y": 1.235934900812977
+      },
+      "nextControl": {
+        "x": 10.137897662567958,
+        "y": 1.3840650991870231
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 8.62,
+        "y": 2.2601914533358305
+      },
+      "prevControl": {
+        "x": 8.71944302984017,
+        "y": 2.2707310840792183
+      },
+      "nextControl": {
+        "x": 8.520556970159829,
+        "y": 2.2496518225924427
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 7.86,
+        "y": 2.41243232843099
+      },
+      "prevControl": {
+        "x": 7.86,
+        "y": 2.51243232843099
+      },
+      "nextControl": {
+        "x": 7.86,
+        "y": 2.31243232843099
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 12.3,
+        "y": 1.1710836545781504
+      },
+      "prevControl": {
+        "x": 10.891538647468929,
+        "y": 0.6551024355145619
+      },
+      "nextControl": {
+        "x": 13.834153442711871,
+        "y": 1.7331114036381723
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 14.43,
+        "y": 3.454696781005545
+      },
+      "prevControl": {
+        "x": 13.785909472769223,
+        "y": 2.7520415624097456
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": null
+    }
+  ],
+  "rotationTargets": [
+    {
+      "waypointRelativePos": 2.35,
+      "rotationDegrees": 180.0,
+      "rotateFast": true
+    }
+  ],
+  "constraintZones": [
+    {
+      "name": "Grab GP 2",
+      "minWaypointRelativePos": 2.3,
+      "maxWaypointRelativePos": 3.35,
+      "constraints": {
+        "maxVelocity": 4.0,
+        "maxAcceleration": 3.0,
+        "maxAngularVelocity": 1.0,
+        "maxAngularAcceleration": 1.0
+      }
+    }
+  ],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 3.5,
+    "maxAcceleration": 2.5,
+    "maxAngularVelocity": 360.0,
+    "maxAngularAcceleration": 540.0
+  },
+  "goalEndState": {
+    "velocity": 0.0,
+    "rotation": -131.76,
+    "rotateFast": true
+  },
+  "reversed": false,
+  "folder": null,
+  "previewStartingState": {
+    "rotation": -129.4,
+    "velocity": 0
+  },
+  "useDefaultConstraints": false
+}
