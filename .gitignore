@@ -22,3 +22,4 @@
 */builds/*
 Builds/*
 builds/*
+logs/*.wpilog
