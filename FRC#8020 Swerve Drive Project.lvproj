@@ -839,6 +839,83 @@ AddOutputFilter chunkFilter
 				<Item Name="GetVersion_Minor.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetVersion_Minor.vi"/>
 				<Item Name="GetVersion_Major.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetVersion_Major.vi"/>
 				<Item Name="TalonFXGetters.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/TalonFXGetters.vi"/>
+				<Item Name="c_ctre_phoenix_report_error.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix_report_error.vi"/>
+				<Item Name="c_ctre_phoenix6_RequestControlDynamicMotionMagicTorqueCurrentFOC.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_RequestControlDynamicMotionMagicTorqueCurrentFOC.vi"/>
+				<Item Name="DynamicMotionMagicTorqueCurrentFOC SetControl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/controls/DynamicMotionMagicTorqueCurrentFOC SetControl.vi"/>
+				<Item Name="c_ctre_phoenix6_RequestControlDynamicMotionMagicVoltage.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_RequestControlDynamicMotionMagicVoltage.vi"/>
+				<Item Name="DynamicMotionMagicVoltage SetControl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/controls/DynamicMotionMagicVoltage SetControl.vi"/>
+				<Item Name="c_ctre_phoenix6_RequestControlDynamicMotionMagicDutyCycle.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_RequestControlDynamicMotionMagicDutyCycle.vi"/>
+				<Item Name="DynamicMotionMagicDutyCycle SetControl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/controls/DynamicMotionMagicDutyCycle SetControl.vi"/>
+				<Item Name="c_ctre_phoenix6_RequestControlMotionMagicExpoTorqueCurrentFOC.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_RequestControlMotionMagicExpoTorqueCurrentFOC.vi"/>
+				<Item Name="MotionMagicExpoTorqueCurrentFOC SetControl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/controls/MotionMagicExpoTorqueCurrentFOC SetControl.vi"/>
+				<Item Name="c_ctre_phoenix6_RequestControlMotionMagicExpoVoltage.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_RequestControlMotionMagicExpoVoltage.vi"/>
+				<Item Name="MotionMagicExpoVoltage SetControl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/controls/MotionMagicExpoVoltage SetControl.vi"/>
+				<Item Name="c_ctre_phoenix6_RequestControlMotionMagicExpoDutyCycle.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_RequestControlMotionMagicExpoDutyCycle.vi"/>
+				<Item Name="MotionMagicExpoDutyCycle SetControl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/controls/MotionMagicExpoDutyCycle SetControl.vi"/>
+				<Item Name="c_ctre_phoenix6_RequestControlMotionMagicVelocityVoltage.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_RequestControlMotionMagicVelocityVoltage.vi"/>
+				<Item Name="MotionMagicVelocityVoltage SetControl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/controls/MotionMagicVelocityVoltage SetControl.vi"/>
+				<Item Name="c_ctre_phoenix6_RequestControlMotionMagicVelocityTorqueCurrentFOC.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_RequestControlMotionMagicVelocityTorqueCurrentFOC.vi"/>
+				<Item Name="MotionMagicVelocityTorqueCurrentFOC SetControl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/controls/MotionMagicVelocityTorqueCurrentFOC SetControl.vi"/>
+				<Item Name="c_ctre_phoenix6_RequestControlMotionMagicVelocityDutyCycle.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_RequestControlMotionMagicVelocityDutyCycle.vi"/>
+				<Item Name="MotionMagicVelocityDutyCycle SetControl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/controls/MotionMagicVelocityDutyCycle SetControl.vi"/>
+				<Item Name="c_ctre_phoenix6_RequestControlMusicTone.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_RequestControlMusicTone.vi"/>
+				<Item Name="MusicTone SetControl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/controls/MusicTone SetControl.vi"/>
+				<Item Name="c_ctre_phoenix6_RequestControlStaticBrake.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_RequestControlStaticBrake.vi"/>
+				<Item Name="StaticBrake SetControl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/controls/StaticBrake SetControl.vi"/>
+				<Item Name="c_ctre_phoenix6_RequestControlCoastOut.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_RequestControlCoastOut.vi"/>
+				<Item Name="CoastOut SetControl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/controls/CoastOut SetControl.vi"/>
+				<Item Name="c_ctre_phoenix6_RequestControlNeutralOut.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_RequestControlNeutralOut.vi"/>
+				<Item Name="NeutralOut SetControl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/controls/NeutralOut SetControl.vi"/>
+				<Item Name="c_ctre_phoenix6_RequestControlDifferentialStrictFollower.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_RequestControlDifferentialStrictFollower.vi"/>
+				<Item Name="DifferentialStrictFollower SetControl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/controls/DifferentialStrictFollower SetControl.vi"/>
+				<Item Name="c_ctre_phoenix6_RequestControlDifferentialFollower.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_RequestControlDifferentialFollower.vi"/>
+				<Item Name="DifferentialFollower SetControl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/controls/DifferentialFollower SetControl.vi"/>
+				<Item Name="c_ctre_phoenix6_RequestControlStrictFollower.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_RequestControlStrictFollower.vi"/>
+				<Item Name="StrictFollower SetControl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/controls/StrictFollower SetControl.vi"/>
+				<Item Name="c_ctre_phoenix6_RequestControlFollower.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_RequestControlFollower.vi"/>
+				<Item Name="Follower SetControl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/controls/Follower SetControl.vi"/>
+				<Item Name="c_ctre_phoenix6_RequestControlDifferentialMotionMagicVoltage.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_RequestControlDifferentialMotionMagicVoltage.vi"/>
+				<Item Name="DifferentialMotionMagicVoltage SetControl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/controls/DifferentialMotionMagicVoltage SetControl.vi"/>
+				<Item Name="c_ctre_phoenix6_RequestControlDifferentialMotionMagicDutyCycle.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_RequestControlDifferentialMotionMagicDutyCycle.vi"/>
+				<Item Name="DifferentialMotionMagicDutyCycle SetControl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/controls/DifferentialMotionMagicDutyCycle SetControl.vi"/>
+				<Item Name="c_ctre_phoenix6_RequestControlDifferentialVelocityVoltage.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_RequestControlDifferentialVelocityVoltage.vi"/>
+				<Item Name="DifferentialVelocityVoltage SetControl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/controls/DifferentialVelocityVoltage SetControl.vi"/>
+				<Item Name="c_ctre_phoenix6_RequestControlDifferentialVelocityDutyCycle.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_RequestControlDifferentialVelocityDutyCycle.vi"/>
+				<Item Name="DifferentialVelocityDutyCycle SetControl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/controls/DifferentialVelocityDutyCycle SetControl.vi"/>
+				<Item Name="c_ctre_phoenix6_RequestControlDifferentialPositionVoltage.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_RequestControlDifferentialPositionVoltage.vi"/>
+				<Item Name="DifferentialPositionVoltage SetControl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/controls/DifferentialPositionVoltage SetControl.vi"/>
+				<Item Name="c_ctre_phoenix6_RequestControlDifferentialPositionDutyCycle.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_RequestControlDifferentialPositionDutyCycle.vi"/>
+				<Item Name="DifferentialPositionDutyCycle SetControl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/controls/DifferentialPositionDutyCycle SetControl.vi"/>
+				<Item Name="c_ctre_phoenix6_RequestControlDifferentialVoltage.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_RequestControlDifferentialVoltage.vi"/>
+				<Item Name="DifferentialVoltage SetControl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/controls/DifferentialVoltage SetControl.vi"/>
+				<Item Name="c_ctre_phoenix6_RequestControlDifferentialDutyCycle.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_RequestControlDifferentialDutyCycle.vi"/>
+				<Item Name="DifferentialDutyCycle SetControl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/controls/DifferentialDutyCycle SetControl.vi"/>
+				<Item Name="c_ctre_phoenix6_RequestControlMotionMagicTorqueCurrentFOC.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_RequestControlMotionMagicTorqueCurrentFOC.vi"/>
+				<Item Name="MotionMagicTorqueCurrentFOC SetControl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/controls/MotionMagicTorqueCurrentFOC SetControl.vi"/>
+				<Item Name="c_ctre_phoenix6_RequestControlMotionMagicVoltage.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_RequestControlMotionMagicVoltage.vi"/>
+				<Item Name="MotionMagicVoltage SetControl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/controls/MotionMagicVoltage SetControl.vi"/>
+				<Item Name="c_ctre_phoenix6_RequestControlMotionMagicDutyCycle.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_RequestControlMotionMagicDutyCycle.vi"/>
+				<Item Name="MotionMagicDutyCycle SetControl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/controls/MotionMagicDutyCycle SetControl.vi"/>
+				<Item Name="c_ctre_phoenix6_RequestControlVelocityTorqueCurrentFOC.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_RequestControlVelocityTorqueCurrentFOC.vi"/>
+				<Item Name="VelocityTorqueCurrentFOC SetControl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/controls/VelocityTorqueCurrentFOC SetControl.vi"/>
+				<Item Name="c_ctre_phoenix6_RequestControlVelocityVoltage.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_RequestControlVelocityVoltage.vi"/>
+				<Item Name="VelocityVoltage SetControl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/controls/VelocityVoltage SetControl.vi"/>
+				<Item Name="c_ctre_phoenix6_RequestControlVelocityDutyCycle.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_RequestControlVelocityDutyCycle.vi"/>
+				<Item Name="VelocityDutyCycle SetControl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/controls/VelocityDutyCycle SetControl.vi"/>
+				<Item Name="c_ctre_phoenix6_RequestControlPositionTorqueCurrentFOC.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_RequestControlPositionTorqueCurrentFOC.vi"/>
+				<Item Name="PositionTorqueCurrentFOC SetControl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/controls/PositionTorqueCurrentFOC SetControl.vi"/>
+				<Item Name="c_ctre_phoenix6_RequestControlPositionVoltage.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_RequestControlPositionVoltage.vi"/>
+				<Item Name="PositionVoltage SetControl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/controls/PositionVoltage SetControl.vi"/>
+				<Item Name="c_ctre_phoenix6_RequestControlPositionDutyCycle.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_RequestControlPositionDutyCycle.vi"/>
+				<Item Name="PositionDutyCycle SetControl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/controls/PositionDutyCycle SetControl.vi"/>
+				<Item Name="c_ctre_phoenix6_RequestControlVoltageOut.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_RequestControlVoltageOut.vi"/>
+				<Item Name="VoltageOut SetControl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/controls/VoltageOut SetControl.vi"/>
+				<Item Name="c_ctre_phoenix6_RequestControlTorqueCurrentFOC.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_RequestControlTorqueCurrentFOC.vi"/>
+				<Item Name="TorqueCurrentFOC SetControl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/controls/TorqueCurrentFOC SetControl.vi"/>
+				<Item Name="c_ctre_phoenix6_RequestControlDutyCycleOut.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix6_RequestControlDutyCycleOut.vi"/>
+				<Item Name="DutyCycleOut SetControl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/controls/DutyCycleOut SetControl.vi"/>
+				<Item Name="TalonFXSetter.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/TalonFXSetter.vi"/>
+				<Item Name="HandleError.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/HandleError.vi"/>
 			</Item>
 			<Item Name="FRC_NetworkCommunication.dll" Type="Document" URL="FRC_NetworkCommunication.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
