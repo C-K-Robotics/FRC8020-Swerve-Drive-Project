@@ -916,6 +916,59 @@ AddOutputFilter chunkFilter
 				<Item Name="TalonFXSetter.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/TalonFXSetter.vi"/>
 				<Item Name="c_ctre_phoenix_report_error.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/c_interface/c_ctre_phoenix_report_error.vi"/>
 				<Item Name="HandleError.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/HandleError.vi"/>
+				<Item Name="GetPigeon2Yaw.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetPigeon2Yaw.vi"/>
+				<Item Name="GetPigeon2Pitch.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetPigeon2Pitch.vi"/>
+				<Item Name="GetPigeon2Roll.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetPigeon2Roll.vi"/>
+				<Item Name="GetPigeon2QuatW.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetPigeon2QuatW.vi"/>
+				<Item Name="GetPigeon2QuatX.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetPigeon2QuatX.vi"/>
+				<Item Name="GetPigeon2QuatY.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetPigeon2QuatY.vi"/>
+				<Item Name="GetPigeon2QuatZ.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetPigeon2QuatZ.vi"/>
+				<Item Name="GetPigeon2GravityVectorX.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetPigeon2GravityVectorX.vi"/>
+				<Item Name="GetPigeon2GravityVectorY.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetPigeon2GravityVectorY.vi"/>
+				<Item Name="GetPigeon2GravityVectorZ.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetPigeon2GravityVectorZ.vi"/>
+				<Item Name="GetPigeon2Temperature.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetPigeon2Temperature.vi"/>
+				<Item Name="GetPigeon2NoMotionCalEnabled.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetPigeon2NoMotionCalEnabled.vi"/>
+				<Item Name="GetPigeon2NoMotionCount.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetPigeon2NoMotionCount.vi"/>
+				<Item Name="GetPigeon2TempCompDisabled.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetPigeon2TempCompDisabled.vi"/>
+				<Item Name="GetPigeon2UpTime.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetPigeon2UpTime.vi"/>
+				<Item Name="GetPigeon2AccumGyroX.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetPigeon2AccumGyroX.vi"/>
+				<Item Name="GetPigeon2AccumGyroY.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetPigeon2AccumGyroY.vi"/>
+				<Item Name="GetPigeon2AccumGyroZ.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetPigeon2AccumGyroZ.vi"/>
+				<Item Name="GetPigeon2AngularVelocityXWorld.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetPigeon2AngularVelocityXWorld.vi"/>
+				<Item Name="GetPigeon2AngularVelocityYWorld.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetPigeon2AngularVelocityYWorld.vi"/>
+				<Item Name="GetPigeon2AngularVelocityZWorld.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetPigeon2AngularVelocityZWorld.vi"/>
+				<Item Name="GetPigeon2AccelerationX.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetPigeon2AccelerationX.vi"/>
+				<Item Name="GetPigeon2AccelerationY.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetPigeon2AccelerationY.vi"/>
+				<Item Name="GetPigeon2AccelerationZ.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetPigeon2AccelerationZ.vi"/>
+				<Item Name="GetPigeon2_SupplyVoltage.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetPigeon2_SupplyVoltage.vi"/>
+				<Item Name="GetPigeon2AngularVelocityX.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetPigeon2AngularVelocityX.vi"/>
+				<Item Name="GetPigeon2AngularVelocityY.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetPigeon2AngularVelocityY.vi"/>
+				<Item Name="GetPigeon2AngularVelocityZ.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetPigeon2AngularVelocityZ.vi"/>
+				<Item Name="GetPigeon2MagneticFieldX.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetPigeon2MagneticFieldX.vi"/>
+				<Item Name="GetPigeon2MagneticFieldY.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetPigeon2MagneticFieldY.vi"/>
+				<Item Name="GetPigeon2MagneticFieldZ.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetPigeon2MagneticFieldZ.vi"/>
+				<Item Name="GetPigeon2RawMagneticFieldX.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetPigeon2RawMagneticFieldX.vi"/>
+				<Item Name="GetPigeon2RawMagneticFieldY.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetPigeon2RawMagneticFieldY.vi"/>
+				<Item Name="GetPigeon2RawMagneticFieldZ.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetPigeon2RawMagneticFieldZ.vi"/>
+				<Item Name="GetFault_PIGEON2_BootupAccel.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetFault_PIGEON2_BootupAccel.vi"/>
+				<Item Name="GetStickyFault_PIGEON2_BootupAccel.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetStickyFault_PIGEON2_BootupAccel.vi"/>
+				<Item Name="GetFault_PIGEON2_BootupGyros.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetFault_PIGEON2_BootupGyros.vi"/>
+				<Item Name="GetStickyFault_PIGEON2_BootupGyros.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetStickyFault_PIGEON2_BootupGyros.vi"/>
+				<Item Name="GetFault_PIGEON2_BootupMagne.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetFault_PIGEON2_BootupMagne.vi"/>
+				<Item Name="GetStickyFault_PIGEON2_BootupMagne.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetStickyFault_PIGEON2_BootupMagne.vi"/>
+				<Item Name="GetFault_PIGEON2_BootIntoMotion.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetFault_PIGEON2_BootIntoMotion.vi"/>
+				<Item Name="GetStickyFault_PIGEON2_BootIntoMotion.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetStickyFault_PIGEON2_BootIntoMotion.vi"/>
+				<Item Name="GetFault_PIGEON2_DataAcquiredLate.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetFault_PIGEON2_DataAcquiredLate.vi"/>
+				<Item Name="GetStickyFault_PIGEON2_DataAcquiredLate.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetStickyFault_PIGEON2_DataAcquiredLate.vi"/>
+				<Item Name="GetFault_PIGEON2_LoopTimeSlow.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetFault_PIGEON2_LoopTimeSlow.vi"/>
+				<Item Name="GetStickyFault_PIGEON2_LoopTimeSlow.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetStickyFault_PIGEON2_LoopTimeSlow.vi"/>
+				<Item Name="GetFault_PIGEON2_SaturatedMagne.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetFault_PIGEON2_SaturatedMagne.vi"/>
+				<Item Name="GetStickyFault_PIGEON2_SaturatedMagne.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetStickyFault_PIGEON2_SaturatedMagne.vi"/>
+				<Item Name="GetFault_PIGEON2_SaturatedAccel.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetFault_PIGEON2_SaturatedAccel.vi"/>
+				<Item Name="GetStickyFault_PIGEON2_SaturatedAccel.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetStickyFault_PIGEON2_SaturatedAccel.vi"/>
+				<Item Name="GetFault_PIGEON2_SaturatedGyros.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetFault_PIGEON2_SaturatedGyros.vi"/>
+				<Item Name="GetStickyFault_PIGEON2_SaturatedGyros.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/getters/GetStickyFault_PIGEON2_SaturatedGyros.vi"/>
+				<Item Name="Pigeon2Getters.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix6/Pigeon2Getters.vi"/>
 			</Item>
 			<Item Name="FRC_NetworkCommunication.dll" Type="Document" URL="FRC_NetworkCommunication.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
