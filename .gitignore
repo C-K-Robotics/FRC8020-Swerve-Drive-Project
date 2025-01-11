@@ -23,3 +23,6 @@
 Builds/*
 builds/*
 logs/*.wpilog
+
+# PathPlanner deploy
+*/deploy/*
